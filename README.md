@@ -1,6 +1,10 @@
 # network_intrusion
 
-## Security Enhancements and Tools
+## Requirements 
+Python 3.9 and above 
+## dependencies to be installed 
+pip install scapy
+
 
 ### Secure Testing Environments
  Deployed Virtual Machines: Set up Kali Linux VM, Ubuntu VM, and VirtualBox to create secure and isolated testing environments.
